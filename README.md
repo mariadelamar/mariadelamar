@@ -24,7 +24,7 @@ I'm a passionate designer, developer and digital marketer transitioning into the
 - Design & Marketing 🎨
 
 ## 📫 Let's Connect!
-- 🌐 [Portfolio](https://www.mariannebm.com/) *(over 13K followers!)*
+- 🌐 [Portfolio](https://www.mariannebm.com/) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariannebm)
 - 🏗 More projects coming soon...
 
