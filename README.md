@@ -28,5 +28,5 @@ I'm a passionate designer, developer and digital marketer transitioning into the
 - 💼 [LinkedIn](https://www.linkedin.com/in/mariannebm)
 - 🏗 More projects coming soon...
 
-### Thanks for stopping by! 🚀
+### Thanks for stopping by! And feel free to reach out—I’d love to connect! 🚀
 
