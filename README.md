@@ -5,7 +5,7 @@ I'm a passionate designer, developer and digital marketer transitioning into the
 
 ## 🎯 What I'm Working On
 - 📚 Studying **Computer Science** at UoPeople.
-- 🤖 Learning **AI & Machine Learning** through CS50 and personal projects.
+- 🤖 Learning **AI & Machine Learning** through Harvards CS50 classes and various projects.
 - 🔥 **Auction Website** – A Django-based auction platform.
 - 🌍 **GranCanariaSecrets** – A web app to explore Gran Canaria, built with React.
 
