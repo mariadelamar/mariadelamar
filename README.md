@@ -4,7 +4,7 @@
 I'm a passionate designer, developer and digital marketer transitioning into the world of programming, AI, and machine learning. With a background in design and marketing, I'm now diving deep into web development, cybersecurity, and artificial intelligence.
 
 ## 🎯 What I'm Working On
-- 📚 Studying **Computer Science** for my **Bachelor’s degree** at **UoPeople**.
+- 📚 Pursuing a **Bachelor’s degree** in **Computer Science** at **UoPeople**.
 - 🤖 Learning **AI & Machine Learning** through Harvard University's CS50 courses, Kaggle and various projects.
 - 🔥 **Auction Website** – [A Django-based auction platform](https://youtu.be/kwKLr3imOpk) 
 - 🌍 **Gran Canaria attractions** – A web app to explore Gran Canaria, built with React.
