@@ -6,8 +6,6 @@ I'm a creative designer, programmer and digital marketer transitioning into the 
 ## 🎯 What I'm Working On
 - 📚 Pursuing a **Bachelor’s degree** in **Computer Science** at **UoPeople**.
 - 🤖 Learning **AI & Machine Learning** through Harvard University's CS50 courses, Kaggle and various projects.
-- 🔥 **Auction Website** – [A Django-based auction platform](https://youtu.be/kwKLr3imOpk) 
-- 🌍 **Gran Canaria attractions** – A web app to explore Gran Canaria, built with React.
 
 ## 💡 Tech Stack
 - **Frontend:** React, JavaScript, HTML, CSS
