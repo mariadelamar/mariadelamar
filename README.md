@@ -4,7 +4,7 @@
 I'm a creative designer, programmer and digital marketer transitioning into the world of data analysis, AI and machine learning. With a background in design and marketing, I'm now diving deep into web development, cybersecurity, and artificial intelligence.
 
 ## 🎯 What I'm Working On
-- 💼 Working as an "AI/ML Model Trainer & Quality Assurance (QA) Analyst" for Mindy Support.
+- 💼 Working as an **AI/ML Model Trainer & Quality Assurance (QA) Analyst** for Mindy Support.
 - 📚 Pursuing a **Bachelor’s degree** in **Computer Science** at **UoPeople**.
 - 🤖 Learning **AI & Machine Learning** through Harvard University's online courses, Kaggle and various projects.
 
